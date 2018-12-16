@@ -24,7 +24,7 @@ main(int argc, char *argv[])
 			printf("\n");
 		}
 	}
-
+return 0;
 }
 
 void quicksort(int list[], int left, int right,int SIZE)
