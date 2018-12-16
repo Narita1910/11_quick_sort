@@ -2,7 +2,7 @@
 #include<stdlib.h>
 void quicksort(int list[], int left, int right,int SIZE);
 
-main()
+main(int argc, char *argv[])
 {
 	char str[100],SIZE=0;
 	int i,data[100];
