@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<stdlib.h>
+#include<stdlib.h> 
 void quicksort(int list[], int left, int right,int SIZE);
 
 main(int argc, char *argv[])
